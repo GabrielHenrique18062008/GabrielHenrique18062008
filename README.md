@@ -1,4 +1,4 @@
-## Hi there 👋
+## привет 👋
 
 <!--
 **GabrielHenrique18062008/GabrielHenrique18062008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
